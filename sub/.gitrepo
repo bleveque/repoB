@@ -6,6 +6,6 @@
 [subrepo]
 	remote = https://github.com/bleveque/repoSub.git
 	branch = master
-	commit = 043594a75aa0d6df9db2978a8893e9f5246351f2
-	parent = b58c01463c5cc812d2a7ca770e16bf668455b731
+	commit = af96dcb2efa559d5b74e2770d53c677be5e0b489
+	parent = f5f8a17cbc0800167e7be2087c0d300c283f9a93
 	cmdver = 0.3.1
